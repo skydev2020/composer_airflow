@@ -1,0 +1,218 @@
+[
+  {
+    "name": "RecordID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "XVID",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },  
+  {
+    "name": "Time_Event_Date",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },  
+  {
+    "name": "Time_Event_Month",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Platform_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Platform_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Company_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Company_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Client_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Client_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Campaign_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Campaign_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geography_Geo_Fence_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geography_Geo_Fence_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Start_Date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_End_Date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Campaign_Type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },  
+  {
+    "name": "Ad_Ad_File_Type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Ad_Ad_ID",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Ad_Ad_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Ad_Ad_Size",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Performance_Impressions",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Performance_Clicks",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Performance_CTR",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Performance_eCPM",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Performance_Total_Spend",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Performance_eCPC",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Clickthrough_Visits",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Viewthrough_Visits",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_CPA",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Weighted_Actions",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Monthly_Budget",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Total_Budget",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Clickthrough_Leads",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Clickthrough_Other",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversion_Clickthrough_Sales",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversion_Clickthrough_Total",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversion_Clickthrough_Signups",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Viewthrough_Leads",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Viewthrough_Other",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Viewthrough_Sales",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Viewthrough_Signups",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversions_Viewthrough_Total",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  }
+  
+]

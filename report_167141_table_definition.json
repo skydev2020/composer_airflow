@@ -1,0 +1,157 @@
+[
+  {
+    "name": "RecordID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Custom_ID",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Time_Event_Date",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Time_Event_Month",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Company_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Company_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Client_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Companies_Client_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Campaign_Name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Campaign_ID",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Start_Date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_End_Date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Campaign_Campaign_Type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Natural_Users",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Natural_Converters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_New_Natural_Converters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }, 
+  {
+    "name": "Geolift_Natural_Days_to_Convert",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Campaign_Users",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Campaign_Converters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_New_Campaign_Converters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Campaign_Days_to_Convert",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversion_Rate_Natural_Conversion_Rate",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Conversion_Rate_Campaign_Conversion_Rate",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Lift_Conversion_Lift",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Lift_New_Conversion_Lift",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Repeat_Campaign_Converters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_New_Campaign_Users",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Repeat_Campaign_Users",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Repeat_Natural_Converters",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_New_Natural_Users",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "Geolift_Repeat_Natural_Users",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  }
+]
